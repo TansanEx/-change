@@ -3,7 +3,9 @@
 ## 9月18日更新（version1.3）
 
 1. 转向采用法兰式
-![image10](_images/法兰装配.png)
+![image10](_images/转向法兰配合.png)
+2. 后轮采用法兰固定
+![image11](_images/后轮法兰.png)
 
 ## 9月17日更新（version1.2)
 
@@ -59,5 +61,5 @@
 	- 轴承支座4不便加工
 	![image8](_images/c_c2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NzIzMjUwNF19
+eyJoaXN0b3J5IjpbLTE1MTQzNzQzNTldfQ==
 -->
