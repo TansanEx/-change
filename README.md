@@ -1,5 +1,7 @@
 # 无碳小车图改
 
+
+
 ## 9月17日更新（version1.2)
 
 1. 根据算法内参数对零件参数进行修改使更接近模拟值，改动涉及：
@@ -53,3 +55,6 @@
 	![image7](_images/c_c1.png)
 	- 轴承支座4不便加工
 	![image8](_images/c_c2.png)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3Njc2OTE2NzldfQ==
+-->
