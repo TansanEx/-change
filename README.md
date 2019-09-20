@@ -2,7 +2,12 @@
 
 ## 9月20日更新（version1.4.1）
 1. 法兰式转向重新优化
+
+![image12](_images/法兰1.png)
+
 2. 顶部优化
+
+![image13](_images/顶部.png)
 
 ## 9月18日更新（version1.3）
 
@@ -68,6 +73,6 @@
 	- 轴承支座4不便加工
 	![image8](_images/c_c2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NjIwNjk4MDMsLTEzMTQ1MDQ2MTddfQ
-==
+eyJoaXN0b3J5IjpbLTExOTUzNTY3MzAsLTE4NjIwNjk4MDMsLT
+EzMTQ1MDQ2MTddfQ==
 -->
