@@ -56,18 +56,17 @@
 
 ![image4](_images/5.png)
 
-- 转向换为圆盘式，用法兰固定
-- 定滑轮的优化
+- ~~转向换为圆盘式，用法兰固定~~
+- ~~定滑轮的优化~~
 
 ![image5](_images/8.png)
 
 - 装配与加工潜在问题
 	- 滑块如何固定
-	- 右后轮怎么固定（法兰？）
+	- ~~右后轮怎么固定（法兰？）~~
 	![image7](_images/c_c1.png)
 	- 轴承支座4不便加工
 	![image8](_images/c_c2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjE4NjI0OTAsLTEzMTQ1MDQ2MTddfQ
-==
+eyJoaXN0b3J5IjpbMTEwMDc2ODQyMiwtMTMxNDUwNDYxN119
 -->
