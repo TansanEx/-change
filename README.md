@@ -1,6 +1,8 @@
 # 无碳小车图改
 
-
+## 9月20日更新（version1.4.1）
+1. 法兰式转向重新改动。
+2. 顶部优化。
 
 ## 9月18日更新（version1.3）
 
@@ -66,5 +68,6 @@
 	- 轴承支座4不便加工
 	![image8](_images/c_c2.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTE0MTA0MywtMTMxNDUwNDYxN119
+eyJoaXN0b3J5IjpbLTE5NjE4NjI0OTAsLTEzMTQ1MDQ2MTddfQ
+==
 -->
